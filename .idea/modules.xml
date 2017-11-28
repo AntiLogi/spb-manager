@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spb-base/spb-base.iml" filepath="$PROJECT_DIR$/spb-base/spb-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spb-common/spb-common.iml" filepath="$PROJECT_DIR$/spb-common/spb-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spb-manager.iml" filepath="$PROJECT_DIR$/spb-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spb-shiro/spb-shiro.iml" filepath="$PROJECT_DIR$/spb-shiro/spb-shiro.iml" />
+    </modules>
+  </component>
+</project>
